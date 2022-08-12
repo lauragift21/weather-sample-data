@@ -1,0 +1,79 @@
+[
+  {
+    "location": {
+      "name": "London",
+      "region": "City of London, Greater London",
+      "country": "United Kingdom"
+    },
+    "current": {
+      "temp_c": 20.0,
+      "temp_f": 68.0,
+      "condition": "Partly cloudy",
+      "feelslike_c": 20.0,
+      "feelslike_f": 68.0,
+      "uv": 6.0
+    }
+  },
+  {
+    "location": {
+      "name": "Lisbon",
+      "region": "Lisboa",
+      "country": "Portugal"
+    },
+    "current": {
+      "temp_c": 21.0,
+      "temp_f": 69.8,
+      "condition": "Overcast",
+      "feelslike_c": 21.0,
+      "feelslike_f": 69.8,
+      "uv": 6.0
+    }
+  },
+  {
+    "location": {
+      "name": "Toronto",
+      "region": "Ontario",
+      "country": "Canada"
+    },
+    "current": {
+      "temp_c": 21.0,
+      "temp_f": 69.8,
+      "condition": "Overcast",
+      "feelslike_c": 21.0,
+      "feelslike_f": 69.8,
+      "uv": 1.0
+    }
+  },
+  {
+    "location": {
+      "name": "Singapore",
+      "region": "",
+      "country": "Singapore",
+      "tz_id": "Asia/Singapore"
+    },
+    "current": {
+      "temp_c": 28.0,
+      "temp_f": 82.4,
+      "condition": "Partly cloudy",
+      "feelslike_c": 32.2,
+      "feelslike_f": 89.9,
+      "uv": 7.0
+    }
+  },
+  {
+    "location": {
+      "name": "San Francisco",
+      "region": "California",
+      "country": "United States of America",
+      "tz_id": "America/Los_Angeles"
+    },
+    "current": {
+      "temp_c": 16.7,
+      "temp_f": 62.1,
+      "condition": "Partly cloudy",
+      "feelslike_c": 16.7,
+      "feelslike_f": 62.1,
+      "uv": 1.0
+    }
+  }
+]
