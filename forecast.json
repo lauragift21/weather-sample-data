@@ -1,0 +1,101 @@
+[
+  {
+    "location": {
+      "name": "London",
+      "region": "City of London, Greater London",
+      "country": "United Kingdom"
+    },
+    "forecast": {
+      "forecastday": [
+        {
+          "date": "2022-08-12",
+          "date_epoch": 1660262400,
+          "day": {
+            "maxtemp_c": 34.5,
+            "maxtemp_f": 94.1,
+            "mintemp_c": 19.6,
+            "mintemp_f": 67.3,
+            "avgtemp_c": 26.1,
+            "avgtemp_f": 79.0,
+            "maxwind_mph": 10.7,
+            "maxwind_kph": 17.3,
+            "condition": "Sunny"
+          },
+          "astro": {
+            "sunrise": "05:41 AM",
+            "sunset": "08:29 PM",
+            "moonrise": "09:18 PM",
+            "moonset": "05:35 AM",
+            "moon_phase": "Full Moon"
+          }
+        },
+        {
+          "date": "2022-08-13",
+          "date_epoch": 1660348800,
+          "day": {
+            "maxtemp_c": 35.4,
+            "maxtemp_f": 95.7,
+            "mintemp_c": 19.6,
+            "mintemp_f": 67.3,
+            "avgtemp_c": 26.9,
+            "avgtemp_f": 80.4,
+            "maxwind_mph": 11.2,
+            "maxwind_kph": 18.0,
+            "condition": "Sunny"
+          },
+          "astro": {
+            "sunrise": "05:43 AM",
+            "sunset": "08:27 PM",
+            "moonrise": "09:37 PM",
+            "moonset": "07:05 AM",
+            "moon_phase": "Full Moon"
+          }
+        },
+        {
+          "date": "2022-08-14",
+          "date_epoch": 1660435200,
+          "day": {
+            "maxtemp_c": 37.3,
+            "maxtemp_f": 99.1,
+            "mintemp_c": 22.1,
+            "mintemp_f": 71.8,
+            "avgtemp_c": 28.4,
+            "avgtemp_f": 83.2,
+            "maxwind_mph": 9.6,
+            "maxwind_kph": 15.5,
+            "condition": "Sunny"
+          },
+          "astro": {
+            "sunrise": "05:44 AM",
+            "sunset": "08:25 PM",
+            "moonrise": "09:52 PM",
+            "moonset": "08:32 AM",
+            "moon_phase": "Waxing Gibbous"
+          }
+        },
+        {
+          "date": "2022-08-15",
+          "date_epoch": 1660521600,
+          "day": {
+            "maxtemp_c": 31.6,
+            "maxtemp_f": 88.9,
+            "mintemp_c": 21.1,
+            "mintemp_f": 70.0,
+            "avgtemp_c": 25.4,
+            "avgtemp_f": 77.7,
+            "maxwind_mph": 13.0,
+            "maxwind_kph": 20.9,
+            "condition": "Patchy rain possible"
+          },
+          "astro": {
+            "sunrise": "05:46 AM",
+            "sunset": "08:23 PM",
+            "moonrise": "10:05 PM",
+            "moonset": "09:55 AM",
+            "moon_phase": "Waning Gibbous"
+          }
+        }
+      ]
+    }
+  }
+]
